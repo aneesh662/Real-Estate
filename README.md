@@ -12,9 +12,9 @@ I am an experienced Financial Data Analyst specializing in the UAE's property ma
 - Prepare and analyze monthly, quarterly, and annual financial reports.
 - Monitor and forecast cash flow for property assets.
 
-### 2. VAT Compliance
-- Ensure accurate VAT compliance for property transactions according to UAE Federal Tax Authority (FTA) guidelines.
-- Prepare and submit VAT returns efficiently.
+### 2. Data Analysis
+- Leverage Power BI, Excel, and Python for real-time financial analysis and dynamic dashboards.
+- Create interactive dashboards to monitor KPIs and support strategic decision-making.
 
 ### 3. Rent Collection
 - Manage rent invoicing, tenant payments, and overdue collections.
@@ -35,14 +35,11 @@ I am an experienced Financial Data Analyst specializing in the UAE's property ma
 ### 7. Payroll Management
 - Manage payroll processing for property management staff, ensuring compliance with UAE labor laws.
 
-### 8. Property Investment Analysis
-- Conduct financial analysis and due diligence on property investments.
-- Analyze return on investment (ROI) for acquisitions, sales, and development projects.
+### 8. VAT Compliance
+- Ensure accurate VAT compliance for property transactions according to UAE Federal Tax Authority (FTA) guidelines.
+- Prepare and submit VAT returns efficiently.
 
 ### 9. Financial Systems
 - Utilize accounting software like Tally and SAP FICO for efficient property management.
 - Automate financial reporting processes to enhance accuracy and efficiency.
 
-### 10. Data Analysis
-- Leverage Power BI, Excel, and Python for real-time financial analysis and dynamic dashboards.
-- Create interactive dashboards to monitor KPIs and support strategic decision-making.
