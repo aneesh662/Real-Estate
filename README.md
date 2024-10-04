@@ -43,4 +43,4 @@ I am an experienced Financial Data Analyst specializing in the UAE's property ma
 - Automate financial reporting processes to enhance accuracy and efficiency.
 
 ## Sample Project
-You can view the project [here]([https://app.powerbi.com/view?r=eyJrIjoiODU1NzYxZjAtNDFiYy00OWQ5LWE0ZDYtYzM0NDRiZWYzM2JlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/groups/me/reports/aff2541a-8460-44b8-96c2-387fb245cae0/45a74edcde39565721d6?experience=power-bi).
+You can view the project [here](https://app.powerbi.com/view?r=eyJrIjoiODU1NzYxZjAtNDFiYy00OWQ5LWE0ZDYtYzM0NDRiZWYzM2JlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/groups/me/reports/aff2541a-8460-44b8-96c2-387fb245cae0/45a74edcde39565721d6?experience=power-bi).
