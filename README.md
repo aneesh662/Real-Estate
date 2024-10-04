@@ -1,5 +1,7 @@
 # Duties and Responsibilities in Property Management 
 
+![Project Screenshot](https://github.com/aneesh662/Real-Estate/blob/main/building.JPG)
+
 ## About Me
 I am an experienced Finance Professional specializing in the property management sector in the UAE. With expertise in financial reporting, budgeting, and VAT compliance, I ensure the financial health and regulatory compliance of real estate assets under management.
 
