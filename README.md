@@ -40,6 +40,6 @@ I am an experienced Financial Data Analyst specializing in the UAE's property ma
 - Prepare and submit VAT returns efficiently.
 
 ### 9. Financial Systems
-- Utilize accounting software like Tally and SAP FICO for efficient property management.
+- Utilize accounting software like Tally and Peachtree for efficient property management.
 - Automate financial reporting processes to enhance accuracy and efficiency.
 
