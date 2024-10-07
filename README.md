@@ -3,7 +3,7 @@
 ![Project Screenshot](https://github.com/aneesh662/Real-Estate/blob/main/building.JPG)
 
 ## About Me
-I am an experienced Financial Data Analyst specializing in the UAE's property management sector. I possess expertise in financial reporting, budgeting, forecasting, VAT compliance, and advanced data analysis to ensure the financial health and regulatory compliance of real estate assets.
+I am an experienced Financial Data Analyst specializing in the UAE's property management sector. I possess expertise in General Accounitng, financial reporting, budgeting, forecasting, VAT compliance, and advanced data analysis to ensure the financial health and regulatory compliance of real estate assets.
 
 ## Key Duties & Responsibilities
 
@@ -15,9 +15,9 @@ I am an experienced Financial Data Analyst specializing in the UAE's property ma
 - Leverage Power BI, Excel, and Python for real-time financial analysis and dynamic dashboards.
 - Create interactive dashboards to monitor KPIs and support strategic decision-making.
 
-### 3. Rent Collection
+### 3. Rent Collection Reports
 - Manage rent invoicing, tenant payments, and overdue collections.
-- Maintain and analyze accounts receivable for multiple properties.
+- Maintain and analyze accounts receivable for  properties.
 
 ### 4. Accounts Payable
 - Oversee payments for property-related expenses and manage vendor relationships.
@@ -43,4 +43,4 @@ I am an experienced Financial Data Analyst specializing in the UAE's property ma
 - Automate financial reporting processes to enhance accuracy and efficiency.
 
 ## Sample Project
-You can view the project [here](https://app.powerbi.com/view?r=eyJrIjoiODU1NzYxZjAtNDFiYy00OWQ5LWE0ZDYtYzM0NDRiZWYzM2JlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=45a74edcde39565721d6).
+Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiODU1NzYxZjAtNDFiYy00OWQ5LWE0ZDYtYzM0NDRiZWYzM2JlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=45a74edcde39565721d6).
