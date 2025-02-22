@@ -9,6 +9,12 @@ Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiODU1NzY
 
 ## Sample Project
 Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2NmZkZmUtYWI5Ni00Y2QzLWEyNDgtY2IyYzg2YmJkNzJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=5a9adaf15edbc1ec1677).
+
+![Project Screenshot](https://github.com/aneesh662/Real-Estate/blob/83e1f23008eac94eeccd8e9486e973dcdd214870/RM.png)
+
+## Sample Project
+Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2NmZkZmUtYWI5Ni00Y2QzLWEyNDgtY2IyYzg2YmJkNzJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=5a9adaf15edbc1ec1677).
+
 ## About Me
 I am an experienced Financial Data Analyst specializing in the UAE's property management sector. I possess expertise in General Accounitng, financial reporting, budgeting, forecasting, VAT compliance, and advanced data analysis to ensure the financial health and regulatory compliance of real estate assets.
 
