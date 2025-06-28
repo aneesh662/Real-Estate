@@ -16,7 +16,7 @@ Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2NmZ
 Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiNjQ5MzU2NmEtMDFmNC00YWMxLWExMGQtZGQ1MmRkOTc2MjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=08696605e8d8196c5b44).
 
 ## About Me
-I am an experienced Financial Data Analyst specializing in the UAE's property management sector. I possess expertise in General Accounitng, financial reporting, budgeting, forecasting, VAT compliance, and advanced data analysis to ensure the financial health and regulatory compliance of real estate assets.
+I am an experienced Financial Data Analyst specializing in the UAE's property management sector. I possess expertise in General Accounting, financial reporting, budgeting, forecasting, VAT compliance, and advanced data analysis to ensure the financial health and regulatory compliance of real estate assets.
 
 ## Key Duties & Responsibilities
 
